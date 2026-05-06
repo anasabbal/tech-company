@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visa Jobs Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/web/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Visa-Sponsored Opportunities</p>
+          <h1>Explore every role in one focused, fast job board.</h1>
+          <p class="hero-text">
+            Search by company, title, or location. Filter by country. Open the
+            listing that fits and move quickly.
+          </p>
+        </div>
+        <div class="hero-panel">
+          <div class="stat-grid" id="statGrid"></div>
+          <p class="updated" id="updatedAt"></p>
+        </div>
+      </header>
+
+      <section class="controls">
+        <label class="search-field">
+          <span>Search</span>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Backend Engineer, Berlin, JetBrains..."
+          />
+        </label>
+
+        <label class="filter-field">
+          <span>Country</span>
+          <select id="countryFilter">
+            <option value="all">All countries</option>
+          </select>
+        </label>
+
+        <label class="filter-field">
+          <span>Sort</span>
+          <select id="sortFilter">
+            <option value="recent">Most recent</option>
+            <option value="company">Company A-Z</option>
+            <option value="title">Title A-Z</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="results-head">
+        <div>
+          <p class="section-label">Open Roles</p>
+          <h2 id="resultsTitle">Loading jobs...</h2>
+        </div>
+        <button class="ghost-button" id="clearFilters">Clear filters</button>
+      </section>
+
+      <section class="jobs-grid" id="jobsGrid"></section>
+      <template id="jobCardTemplate">
+        <article class="job-card">
+          <div class="job-card-top">
+            <div>
+              <p class="company-line"></p>
+              <h3 class="job-title"></h3>
+            </div>
+            <span class="country-pill"></span>
+          </div>
+
+          <div class="meta-list">
+            <p class="meta-row location"></p>
+            <p class="meta-row added"></p>
+          </div>
+
+          <div class="job-card-footer">
+            <a class="apply-link" target="_blank" rel="noreferrer">Apply now</a>
+          </div>
+        </article>
+      </template>
+
+      <div class="empty-state hidden" id="emptyState">
+        <h3>No jobs matched that filter.</h3>
+        <p>Try a different keyword or reset the country filter.</p>
+      </div>
+    </div>
+
+    <script src="/web/app.js" defer></script>
+  </body>
+</html>

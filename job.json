@@ -1,0 +1,3166 @@
+[
+  {
+    "company": "Trade Republic",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Trade Republic",
+        "job_title": "Backend Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jobs.weekday.works/trade-republic-backend-engineer-%E2%80%93-berlin",
+        "added": "April 7, 2026"
+      },
+      {
+        "company": "Trade Republic",
+        "job_title": "Data Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jobs.weekday.works/trade-republic-data-engineer---berlin",
+        "added": "April 7, 2026"
+      }
+    ]
+  },
+  {
+    "company": "JetBrains",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "JetBrains",
+        "job_title": "Senior Software Developer (IntelliJ AI)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4815896101",
+        "added": "April 1, 2026"
+      },
+      {
+        "company": "JetBrains",
+        "job_title": "Senior/Staff Software Developer - Kotlin Multiplatform Tooling",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4703937101",
+        "added": "April 1, 2026"
+      },
+      {
+        "company": "JetBrains",
+        "job_title": "Senior Software Engineer - Infrastructure (Toolbox App)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4785665101",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Grafana Labs",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Grafana Labs",
+        "job_title": "Staff Backend Engineer - Adaptive Telemetry",
+        "location": "Germany (Remote)",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://boards.greenhouse.io/grafanalabs/jobs/5801256004",
+        "added": "April 1, 2026"
+      },
+      {
+        "company": "Grafana Labs",
+        "job_title": "Staff Software Engineer - Kubernetes Monitoring",
+        "location": "Spain (Remote)",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://boards.greenhouse.io/grafanalabs/jobs/5809258004",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Supercell",
+    "country_flag": "🇫🇮",
+    "country": "Finland",
+    "jobs": [
+      {
+        "company": "Supercell",
+        "job_title": "Senior Software Engineer, Supercell Store",
+        "location": "Helsinki, Finland",
+        "country": "Finland",
+        "country_flag": "🇫🇮",
+        "apply_url": "https://supercell.com/en/careers/software-engineer-supercell-store/2154261",
+        "added": "April 1, 2026"
+      },
+      {
+        "company": "Supercell",
+        "job_title": "Senior Server Engineer",
+        "location": "Helsinki, Finland",
+        "country": "Finland",
+        "country_flag": "🇫🇮",
+        "apply_url": "https://supercell.com/en/careers/senior-server-engineer-1/2262179",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Dynatrace",
+    "country_flag": "🇦🇹",
+    "country": "Austria",
+    "jobs": [
+      {
+        "company": "Dynatrace",
+        "job_title": "Cross-Platform Software Engineer",
+        "location": "Linz, Austria",
+        "country": "Austria",
+        "country_flag": "🇦🇹",
+        "apply_url": "https://www.dynatrace.com/careers/jobs/1361049300/",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "SumUp",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "SumUp",
+        "job_title": "Senior Backend Engineer - Accounts",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.sumup.com/careers/positions/berlin-germany/backend/senior-backend-engineer-accounts-/8418083002/",
+        "added": "April 1, 2026"
+      },
+      {
+        "company": "SumUp",
+        "job_title": "Backend Engineer - Sales \u0026 Orders",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.sumup.com/careers/positions/berlin-germany/engineering/backend-engineer-sales-orders/8427119002/",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Nordea",
+    "country_flag": "🇫🇮",
+    "country": "Finland",
+    "jobs": [
+      {
+        "company": "Nordea",
+        "job_title": "Software Developer - Financial Software Engineering",
+        "location": "Helsinki, Finland",
+        "country": "Finland",
+        "country_flag": "🇫🇮",
+        "apply_url": "https://careers.nordea.com/job/Helsinki-Software-Developer-Financial-Software-Engineering-for-Rates-Advisory-Business-Technology-00500/1369613233/",
+        "added": "April 1, 2026"
+      },
+      {
+        "company": "Nordea",
+        "job_title": "Senior Full Stack Developer",
+        "location": "Helsinki, Finland",
+        "country": "Finland",
+        "country_flag": "🇫🇮",
+        "apply_url": "https://careers.nordea.com/job/Helsinki-Senior-Full-Stack-Developer-00500/1378481133/",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Ericsson",
+    "country_flag": "🇸🇪",
+    "country": "Sweden",
+    "jobs": [
+      {
+        "company": "Ericsson",
+        "job_title": "Next Generation Software Developer",
+        "location": "Stockholm, Sweden",
+        "country": "Sweden",
+        "country_flag": "🇸🇪",
+        "apply_url": "https://jobs.ericsson.com/careers/job/563121763540095-next-generation-software-developer-stockholm-stockholm-sweden",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Trustpilot",
+    "country_flag": "🇩🇰",
+    "country": "Denmark",
+    "jobs": [
+      {
+        "company": "Trustpilot",
+        "job_title": "Senior Software Engineer",
+        "location": "Copenhagen, Denmark",
+        "country": "Denmark",
+        "country_flag": "🇩🇰",
+        "apply_url": "https://business.trustpilot.com/jobs/7622003?gh_jid=7622003",
+        "added": "April 1, 2026"
+      },
+      {
+        "company": "Trustpilot",
+        "job_title": "Staff Engineer (Backend)",
+        "location": "Copenhagen, Denmark",
+        "country": "Denmark",
+        "country_flag": "🇩🇰",
+        "apply_url": "https://business.trustpilot.com/jobs/7267789?gh_jid=7267789",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Lunar",
+    "country_flag": "🇩🇰",
+    "country": "Denmark",
+    "jobs": [
+      {
+        "company": "Lunar",
+        "job_title": "(Senior) Backend Engineer",
+        "location": "Copenhagen, Denmark",
+        "country": "Denmark",
+        "country_flag": "🇩🇰",
+        "apply_url": "https://jobs.lunar.app/jobs/7012654-senior-backend-engineer",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "BlaBlaCar",
+    "country_flag": "🇫🇷",
+    "country": "France",
+    "jobs": [
+      {
+        "company": "BlaBlaCar",
+        "job_title": "Backend Engineer - BlaBlaCar Daily",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://jobs.lever.co/blablacar/5964ce66-4f2a-41a9-a412-2642a73042ff",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Deezer",
+    "country_flag": "🇫🇷",
+    "country": "France",
+    "jobs": [
+      {
+        "company": "Deezer",
+        "job_title": "Senior Backend Engineer - Customer \u0026 Monetization (m/f/d)",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://www.welcometothejungle.com/en/companies/deezer/jobs/senior-backend-engineer-customer-monetization-m-f-d_paris_DEEZE_Z92WbNb",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "OVHcloud",
+    "country_flag": "🇫🇷",
+    "country": "France",
+    "jobs": [
+      {
+        "company": "OVHcloud",
+        "job_title": "Senior Software Developer - Golang",
+        "location": "Roubaix, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://careers.ovhcloud.com/job/ROUBAIX-Senior-software-developer-Golang-59100/1364900833/",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Ubisoft",
+    "country_flag": "🇫🇷",
+    "country": "France",
+    "jobs": [
+      {
+        "company": "Ubisoft",
+        "job_title": "Senior Software Engineer - AI Applications (W/M/NB)",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://www.ubisoft.com/en-us/company/careers/search/744000113665495-senior-software-engineer-ai-applications-w-m-nb-",
+        "added": "April 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Doctolib",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Doctolib",
+        "job_title": "Senior Software Engineer, Backend (x/f/m)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://careers.doctolib.com/career-jobs/",
+        "added": "March 25, 2026"
+      }
+    ]
+  },
+  {
+    "company": "SoundCloud",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "SoundCloud",
+        "job_title": "Senior Backend Engineer, Anti-Abuse",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://careers.soundcloud.com/",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "SoundCloud",
+        "job_title": "Principal Backend Engineer, Distribution",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://careers.soundcloud.com/",
+        "added": "March 25, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Qonto",
+    "country_flag": "🇪🇸",
+    "country": "Spain",
+    "jobs": [
+      {
+        "company": "Qonto",
+        "job_title": "Senior Ruby Backend Engineer",
+        "location": "Barcelona, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://qonto.com/en-de/careers/tech",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "Qonto",
+        "job_title": "Staff Data Platform Engineer",
+        "location": "Barcelona, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://qonto.com/en-de/careers/tech",
+        "added": "March 25, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Affirm",
+    "country_flag": "🇪🇸",
+    "country": "Spain",
+    "jobs": [
+      {
+        "company": "Affirm",
+        "job_title": "Staff Software Engineer, Backend - Identity Engineering",
+        "location": "Remote, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://boards.greenhouse.io/affirm",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "Affirm",
+        "job_title": "Senior Software Engineer, Backend - Merchant Data Platform",
+        "location": "Remote, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://boards.greenhouse.io/affirm",
+        "added": "March 25, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Payhawk",
+    "country_flag": "🇧🇬",
+    "country": "Bulgaria",
+    "jobs": [
+      {
+        "company": "Payhawk",
+        "job_title": "Full-Stack AI Engineer",
+        "location": "Sofia, Bulgaria",
+        "country": "Bulgaria",
+        "country_flag": "🇧🇬",
+        "apply_url": "https://payhawk.com/careers/4775544101/fullstack-ai-engineer",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "Payhawk",
+        "job_title": "Senior Software Engineer",
+        "location": "Sofia, Bulgaria",
+        "country": "Bulgaria",
+        "country_flag": "🇧🇬",
+        "apply_url": "https://payhawk.com/careers/4000039101/senior-software-engineer",
+        "added": "March 25, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Flink",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Flink",
+        "job_title": "Golang Software Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://app.welcometothejungle.com/jobs/BY2CLbRh",
+        "added": "March 25, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Personio",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Personio",
+        "job_title": "Senior MLOps Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.personio.com/careers/senior-mlops-engineer-d888c7a40646/",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "Personio",
+        "job_title": "Senior Backend Engineer (m/f/d)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.personio.com/careers/software-engineer-l5-time-money-525e5e22fc17/",
+        "added": "March 3, 2026"
+      },
+      {
+        "company": "Personio",
+        "job_title": "Staff Frontend Engineer (m/f/d)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.personio.com/careers/lead-frontend-engineer-dfm-8d68d1f44bd6/",
+        "added": "February 28, 2026"
+      }
+    ]
+  },
+  {
+    "company": "NavVis",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "NavVis",
+        "job_title": "Lead Software Engineer, Full-stack (F/M/D)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/navvis/jobs/4651428101",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "NavVis",
+        "job_title": "Lead Software Engineer, Developer Experience (F/M/D)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/navvis/jobs/4700625101",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "NavVis",
+        "job_title": "Lead Software Engineer - Developer Experience (F/M/D)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/navvis/jobs/4700625101",
+        "added": "March 9, 2026"
+      }
+    ]
+  },
+  {
+    "company": "N26",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "N26",
+        "job_title": "Senior Fullstack Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://n26.com/en/careers",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "N26",
+        "job_title": "Machine Learning Engineer, AI Platform",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://n26.com/en/careers",
+        "added": "March 25, 2026"
+      },
+      {
+        "company": "N26",
+        "job_title": "Senior Product Manager - Payments Platform",
+        "location": "Barcelona, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://n26.com/en-eu/careers/positions/7140089",
+        "added": "March 10, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Superhuman",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Superhuman",
+        "job_title": "Software Engineer, Full-Stack - Platform Team",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://superhuman.com/roles",
+        "added": "March 25, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Ashby",
+    "country_flag": "🇪🇺",
+    "country": "Unknown",
+    "jobs": [
+      {
+        "company": "Ashby",
+        "job_title": "Senior Software Engineer, Product Engineering, EU",
+        "location": "Remote, Europe",
+        "country": "Unknown",
+        "country_flag": "🇪🇺",
+        "apply_url": "https://jobs.ashbyhq.com/ashby/3b9b0141-86e7-46b2-b6b4-ed039b84cdc4",
+        "added": "March 11, 2026"
+      },
+      {
+        "company": "Ashby",
+        "job_title": "Staff Platform Engineer, EU",
+        "location": "Remote, Europe",
+        "country": "Unknown",
+        "country_flag": "🇪🇺",
+        "apply_url": "https://jobs.ashbyhq.com/ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a",
+        "added": "March 11, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Elastic",
+    "country_flag": "🇪🇸",
+    "country": "Spain",
+    "jobs": [
+      {
+        "company": "Elastic",
+        "job_title": "Senior Software Engineer, Detections and Response",
+        "location": "Remote, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://jobs.elastic.co/jobs/engineering/spain/senior-software-engineer-detections-and-response-team/6698060",
+        "added": "March 11, 2026"
+      },
+      {
+        "company": "Elastic",
+        "job_title": "Senior Software Engineer, Generative AI",
+        "location": "Remote, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://jobs.elastic.co/jobs/engineering/spain/security-analyst-experience-senior-software-engineer-generative-ai/6372233",
+        "added": "March 11, 2026"
+      }
+    ]
+  },
+  {
+    "company": "TravelPerk",
+    "country_flag": "🇪🇸",
+    "country": "Spain",
+    "jobs": [
+      {
+        "company": "TravelPerk",
+        "job_title": "Senior Software Engineer",
+        "location": "Barcelona, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://jobs.ashbyhq.com/Perk/a2ca9eea-7169-428a-9efb-0c5ac9cd732d",
+        "added": "March 11, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Bondaval",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Bondaval",
+        "job_title": "Full Stack Engineer",
+        "location": "London, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://jobs.dawncapital.com/companies/bondaval/jobs/64706017-full-stack-engineer",
+        "added": "March 11, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Pleo",
+    "country_flag": "🇩🇰",
+    "country": "Denmark",
+    "jobs": [
+      {
+        "company": "Pleo",
+        "job_title": "Senior Fullstack Engineer",
+        "location": "Copenhagen, Denmark",
+        "country": "Denmark",
+        "country_flag": "🇩🇰",
+        "apply_url": "https://job-boards.greenhouse.io/pleo/jobs/7538792003",
+        "added": "March 9, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Swisscom",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Swisscom",
+        "job_title": "Software Engineer (Java/Spring Boot)",
+        "location": "Rotterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://sdcrotterdam.swisscom.ch/o/devops-engineer-java-3",
+        "added": "March 8, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Miro",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Miro",
+        "job_title": "Graduate Software Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://miro.com/careers/vacancy/8395758002/",
+        "added": "March 9, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Cloudflare",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Cloudflare",
+        "job_title": "Software Engineer, All Levels",
+        "location": "London, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/cloudflare/jobs/5934960",
+        "added": "March 8, 2026"
+      },
+      {
+        "company": "Cloudflare",
+        "job_title": "Senior Software Engineer - Distributed Systems",
+        "location": "Lisbon, Portugal",
+        "country": "Portugal",
+        "country_flag": "🇵🇹",
+        "apply_url": "https://job-boards.greenhouse.io/cloudflare/jobs/7294535",
+        "added": "March 8, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Databricks",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Databricks",
+        "job_title": "Software Engineer - New Grad (2026 Start)",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6866549002",
+        "added": "March 7, 2026"
+      }
+    ]
+  },
+  {
+    "company": "awork",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "awork",
+        "job_title": "Senior Software Engineer - Frontend",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.awork.com/jobs/senior-software-engineer-frontend",
+        "added": "March 7, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Productboard",
+    "country_flag": "🇨🇿",
+    "country": "Czech Republic",
+    "jobs": [
+      {
+        "company": "Productboard",
+        "job_title": "Staff Engineer (IC4) - AI-First Platform",
+        "location": "Prague, Czech Republic",
+        "country": "Czech Republic",
+        "country_flag": "🇨🇿",
+        "apply_url": "https://www.productboard.com/careers/open-positions/staff-senior-product-engineer-agentic-foundations/8080046002/",
+        "added": "March 7, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Zalando",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Zalando",
+        "job_title": "Junior Frontend Software Engineer (all genders)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jobs.zalando.com/en/jobs/2722824-Junior-Frontend-Software-Engineer",
+        "added": "February 28, 2026"
+      },
+      {
+        "company": "Zalando",
+        "job_title": "Senior Machine Learning Engineer (all genders)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jobs.zalando.com/de/jobs/2723350-Senior-Machine-Learning-Engineer",
+        "added": "February 25, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Delivery Hero",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Delivery Hero",
+        "job_title": "Senior Software Engineer - Vendor Growth (all genders)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://careers.deliveryhero.com/job/senior-software-engineer-vendor-growth-all-genders-in-berlin-germany-jid-1845",
+        "added": "March 4, 2026"
+      },
+      {
+        "company": "Delivery Hero",
+        "job_title": "Engineer I, Android (2026 Tech Grad Program)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://careers.deliveryhero.com/job/engineer-l-android-2026-tech-grad-program-in-berlin-germany-jid-8007",
+        "added": "March 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "HelloFresh",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "HelloFresh",
+        "job_title": "Senior Data Scientist (all genders)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://careers.hellofresh.com/global/en/germany",
+        "added": "February 26, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Grammarly",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Grammarly",
+        "job_title": "Full-Stack Software Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.grammarly.com/careers/jobs/engineering/software-engineer-full-stack?gh_jid=7641282",
+        "added": "February 20, 2026"
+      }
+    ]
+  },
+  {
+    "company": "SAP",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "SAP",
+        "job_title": "Senior Cloud Engineer - BTP",
+        "location": "Walldorf, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jobs.sap.com/search/?q=cloud+engineer\u0026locationsearch=Germany",
+        "added": "March 6, 2026"
+      },
+      {
+        "company": "SAP",
+        "job_title": "Full-Stack Developer - AI \u0026 Machine Learning",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jobs.sap.com/search/?q=software+engineer\u0026locationsearch=Berlin",
+        "added": "March 4, 2026"
+      }
+    ]
+  },
+  {
+    "company": "BMW Group",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "BMW Group",
+        "job_title": "Software Developer - Autonomous Driving",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.bmwgroup.jobs/de/en.html",
+        "added": "March 2, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Contentful",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Contentful",
+        "job_title": "Senior Software Engineer - Platform",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.contentful.com/careers/job/7604037/",
+        "added": "February 18, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Adyen",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Adyen",
+        "job_title": "Data Platform Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://careers.adyen.com/vacancies/7068990-data-engineer",
+        "added": "March 5, 2026"
+      },
+      {
+        "company": "Adyen",
+        "job_title": "Machine Learning Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://careers.adyen.com/vacancies/",
+        "added": "March 3, 2026"
+      },
+      {
+        "company": "Adyen",
+        "job_title": "Senior Data Platform Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://careers.adyen.com/vacancies/7440112-senior-data-platform-engineer",
+        "added": "February 28, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Mollie",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Mollie",
+        "job_title": "Full Stack Engineer (WordPress)",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://jobs.mollie.com/locations/amsterdam",
+        "added": "February 22, 2026"
+      },
+      {
+        "company": "Mollie",
+        "job_title": "Full Stack Engineer (Relocation within EU)",
+        "location": "Lisbon, Portugal",
+        "country": "Portugal",
+        "country_flag": "🇵🇹",
+        "apply_url": "https://jobs.mollie.com/locations/",
+        "added": "February 20, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Booking.com",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Booking.com",
+        "job_title": "Machine Learning Scientist",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://jobs.booking.com/booking/jobs/28205?lang=en-us",
+        "added": "March 1, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Form3",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Form3",
+        "job_title": "Senior Software Engineer (Go) - UK/EU Sponsorship",
+        "location": "London, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/form3/jobs/6212418002",
+        "added": "March 7, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Infineon Technologies",
+    "country_flag": "🇮🇪",
+    "country": "Ireland",
+    "jobs": [
+      {
+        "company": "Infineon Technologies",
+        "job_title": "Verification Engineer - Chip Design",
+        "location": "Cork, Ireland",
+        "country": "Ireland",
+        "country_flag": "🇮🇪",
+        "apply_url": "https://jobs.infineon.com/careers/job/563808961484399-senior-verification-engineer-munich-germany-",
+        "added": "March 6, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Wise",
+    "country_flag": "🇪🇪",
+    "country": "Estonia",
+    "jobs": [
+      {
+        "company": "Wise",
+        "job_title": "Senior Software Engineer I - Europe Money Movement",
+        "location": "Tallinn, Estonia",
+        "country": "Estonia",
+        "country_flag": "🇪🇪",
+        "apply_url": "https://wise.jobs/job/senior-software-engineer-i-europe-money-movement-in-tallinn-jid-2753",
+        "added": "March 5, 2026"
+      },
+      {
+        "company": "Wise",
+        "job_title": "Software Engineer - Treasury Money Movements",
+        "location": "Tallinn, Estonia",
+        "country": "Estonia",
+        "country_flag": "🇪🇪",
+        "apply_url": "https://wise.jobs/job/software-engineer-treasury-money-movements-in-tallinn-jid-2570",
+        "added": "February 28, 2026"
+      }
+    ]
+  },
+  {
+    "company": "Bolt",
+    "country_flag": "🇪🇪",
+    "country": "Estonia",
+    "jobs": [
+      {
+        "company": "Bolt",
+        "job_title": "Senior Backend Engineer",
+        "location": "Tallinn, Estonia",
+        "country": "Estonia",
+        "country_flag": "🇪🇪",
+        "apply_url": "https://bolt.eu/en/careers/positions/6832106002/",
+        "added": "March 6, 2026"
+      }
+    ]
+  },
+  {
+    "company": "K-tronik GmbH",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Development Engineer (m/f/d) Aerospace Electronics",
+        "location": "Lindau, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6896/development-engineer-m-f-d-aerospace-electronics",
+        "added": "August 4, 2025"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "System Engineer (m/f/x) Aerospace",
+        "location": "Überlingen, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6517/system-engineer-m-f-x-aerospace",
+        "added": "October 31, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Project Manager (m/f/x) Aerospace",
+        "location": "Kiel, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6600/project-manager-m-f-x-aerospace",
+        "added": "August 2, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Cloud Developer (m/f/x) - Backend",
+        "location": "Kiel, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6607/cloud-developer-m-f-x-backend",
+        "added": "August 2, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "C/C++ Software Developer (m/f/x)",
+        "location": "Kiel, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6605/c-c-software-developer-m-f-x-for-linux-in-the-area-of-connectivity",
+        "added": "August 2, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Software Developer Navigation (m/f/x)",
+        "location": "Kiel, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6603/software-developer-navigation-m-f-x",
+        "added": "August 2, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Project Manager (m/f/x) Aerospace",
+        "location": "Kiel, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6600/project-manager-m-f-x-aerospace",
+        "added": "August 2, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Test Engineer - Propulsion (f/m/d)",
+        "location": "Kiel, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6642/test-engineer-propulsion-f-m-d",
+        "added": "August 2, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Test Automation Engineer (m/f/d)",
+        "location": "Kiel, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6660/test-automation-engineer-m-f-d-naval-it-systems",
+        "added": "August 2, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Test Engineer (m/f/x) Battery Systems",
+        "location": "Dresden, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6582/test-engineer-m-f-x-battery-systems",
+        "added": "April 27, 2024"
+      },
+      {
+        "company": "K-tronik GmbH",
+        "job_title": "Hardware Developer (m/f/x) Aerospace",
+        "location": "Dresden, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://bewerbung.k-tronik.de/en/6581/hardware-developer-m-f-x-aerospace",
+        "added": "April 27, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Mistral AI",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Mistral AI",
+        "job_title": "Research Engineer - Paris/London",
+        "location": "Paris 🇫🇷 / London",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://jobs.lever.co/mistral/07447e1d-7900-46d4-b61b-186f2f76847f",
+        "added": "March 22, 2025"
+      },
+      {
+        "company": "Mistral AI",
+        "job_title": "AI Scientist - Paris/London",
+        "location": "Paris 🇫🇷 / London",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://jobs.lever.co/mistral/675b7f06-a76b-4144-af0c-4dd3282ef489",
+        "added": "March 22, 2025"
+      },
+      {
+        "company": "Mistral AI",
+        "job_title": "Technical Program Manager, Engineering - Paris",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://jobs.lever.co/mistral/a1854159-922e-4de7-adb6-7c1b608c147f",
+        "added": "March 22, 2025"
+      },
+      {
+        "company": "Mistral AI",
+        "job_title": "Applied AI Engineer, Use-case - EMEA, Singapore",
+        "location": "Paris 🇫🇷 / London 🇬🇧 /",
+        "country": "Unknown",
+        "country_flag": "Singapore",
+        "apply_url": "https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62",
+        "added": "March 22, 2025"
+      },
+      {
+        "company": "Mistral AI",
+        "job_title": "Applied AI Engineer, Deployment, Europe - Paris",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://jobs.lever.co/mistral/3e51d533-1f2d-48e3-9a2b-33fc7e8b0c0c",
+        "added": "January 20, 2025"
+      },
+      {
+        "company": "Mistral AI",
+        "job_title": "Technical Program Manager, Engineering",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://jobs.lever.co/mistral/a1854159-922e-4de7-adb6-7c1b608c147f",
+        "added": "January 20, 2025"
+      }
+    ]
+  },
+  {
+    "company": "Optiver",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Optiver",
+        "job_title": "Windows Infrastructure – Software Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7475519002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Production Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7790567002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "FPGA Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7694007002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Systems Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7746651002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Linux Systems Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7684971002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Network Engineer – Low Latency",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7790593002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Senior Network Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7790505002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Senior Software Engineer – Python",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7790490002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "PowerShell Developer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7640612002/",
+        "added": "February 28, 2025"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "HR Data Analyst",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7448680002/",
+        "added": "August 17, 2024"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Production Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/6088302002/",
+        "added": "August 17, 2024"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Site Reliability Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/5845750002/",
+        "added": "August 17, 2024"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Senior Software Engineer",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7518286002/",
+        "added": "August 17, 2024"
+      },
+      {
+        "company": "Optiver",
+        "job_title": "Tech Lead – Data Systems",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/7465056002/",
+        "added": "August 17, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Hapag-Lloyd AG",
+    "country_flag": "🇵🇱",
+    "country": "Poland",
+    "jobs": [
+      {
+        "company": "Hapag-Lloyd AG",
+        "job_title": "Cloud Engineer",
+        "location": "Gdansk , Poland",
+        "country": "Poland",
+        "country_flag": "🇵🇱",
+        "apply_url": "https://www.linkedin.com/jobs/view/4148246703",
+        "added": "February 10, 2025"
+      }
+    ]
+  },
+  {
+    "company": "Byborg Enterprises",
+    "country_flag": "🇱🇺",
+    "country": "Unknown",
+    "jobs": [
+      {
+        "company": "Byborg Enterprises",
+        "job_title": "Content Marketing Manager",
+        "location": "Neudorf-Weimershof, Luxembourg",
+        "country": "Unknown",
+        "country_flag": "🇱🇺",
+        "apply_url": "https://jobs.smartrecruiters.com/DoclerHolding/744000035188883-content-marketing-manager",
+        "added": "February 10, 2025"
+      }
+    ]
+  },
+  {
+    "company": "Langham Recruitment",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Langham Recruitment",
+        "job_title": "Senior FPGA Network Engineer",
+        "location": "London , United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://www.linkedin.com/jobs/view/4146351784",
+        "added": "February 10, 2025"
+      }
+    ]
+  },
+  {
+    "company": "MODE Recruitment",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "MODE Recruitment",
+        "job_title": "Senior System Administrator",
+        "location": "Frankfurt, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.linkedin.com/jobs/view/4148245932",
+        "added": "February 10, 2025"
+      },
+      {
+        "company": "MODE Recruitment",
+        "job_title": "Senior System Engineer",
+        "location": "Frankfurt, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.linkedin.com/jobs/view/4148245729",
+        "added": "February 10, 2025"
+      },
+      {
+        "company": "MODE Recruitment",
+        "job_title": "Senior PHP Developer",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.linkedin.com/jobs/view/4148246703",
+        "added": "February 10, 2025"
+      }
+    ]
+  },
+  {
+    "company": "Sunday GmbH",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Sunday GmbH",
+        "job_title": "Forward Deployed Engineer",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://join.com/companies/sunday/13429301-marketing-artist-f-m-d",
+        "added": "January 25, 2025"
+      },
+      {
+        "company": "Sunday GmbH",
+        "job_title": "Media \u0026 Communication Manager (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://sunday.gg/career/?j_id=e9dec4c4-577c-4910-b789-95af7b4222e9",
+        "added": "July 20, 2024"
+      }
+    ]
+  },
+  {
+    "company": "OpenAI",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "OpenAI",
+        "job_title": "Senior Software Engineer - Backend",
+        "location": "London, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488",
+        "added": "January 25, 2025"
+      }
+    ]
+  },
+  {
+    "company": "Shapr3d",
+    "country_flag": "🇭🇺",
+    "country": "Hungary",
+    "jobs": [
+      {
+        "company": "Shapr3d",
+        "job_title": "Senior Software Engineer - Backend",
+        "location": "Budapest, Hungary",
+        "country": "Hungary",
+        "country_flag": "🇭🇺",
+        "apply_url": "https://www.shapr3d.com/company/jobs-details?gh_jid=6316008003",
+        "added": "January 25, 2025"
+      }
+    ]
+  },
+  {
+    "company": "Qualcomm",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Qualcomm",
+        "job_title": "Senior Software Engineer - Qualcomm XR labs Europe",
+        "location": "Amsterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://careers.qualcomm.com/careers/job/446703622802?hl=en-US\u0026domain=qualcomm.com",
+        "added": "January 25, 2025"
+      }
+    ]
+  },
+  {
+    "company": "Kikoff",
+    "country_flag": "🇺🇸",
+    "country": "United States",
+    "jobs": [
+      {
+        "company": "Kikoff",
+        "job_title": "Senior Communications Manager",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/d911c998-c1df-409c-a124-388f853b6ce3",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Kikoff",
+        "job_title": "Software Engineer - Mobile",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/5174cf92-0ef6-47c4-9414-afa2d26dfc4b",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Kikoff",
+        "job_title": "Software Engineer - Backend",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/642a8b0d-22cc-42fd-b21f-72d44649c3da",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Kikoff",
+        "job_title": "Senior Software Engineer - Full Stack",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/6b0b926f-510d-4e47-bbf1-ceec2913b78a",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Kikoff",
+        "job_title": "Senior Software Engineer - Frontend",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/316f1ee2-6612-48be-b20b-2d274ec57c87",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Kikoff",
+        "job_title": "Senior Software Engineer - Backend",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/dc5ce1c8-ef61-40b6-82e2-a6b04c19fff8",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Kikoff",
+        "job_title": "Product Engineering Manager",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/4ada487b-89ac-4a13-b501-bf0f8b043cae",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Kikoff",
+        "job_title": "Data Scientist",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/3411be84-b1e5-4702-8ed8-312385f1b7dc",
+        "added": "December 16, 2024"
+      },
+      {
+        "company": "Kikoff",
+        "job_title": "Software Engineer - Mobile",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jobs.ashbyhq.com/kikoff/5174cf92-0ef6-47c4-9414-afa2d26dfc4b?utm_source=9nPK5GeBwg",
+        "added": "December 1, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Bank for International Settlements – BIS",
+    "country_flag": "🇨🇭",
+    "country": "Switzerland",
+    "jobs": [
+      {
+        "company": "Bank for International Settlements – BIS",
+        "job_title": "Risk Analyst",
+        "location": "Basel, Switzerland",
+        "country": "Switzerland",
+        "country_flag": "🇨🇭",
+        "apply_url": "https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS\u0026cws=40\u0026rid=1291",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Bank for International Settlements – BIS",
+        "job_title": "Data Governance Engineer",
+        "location": "Basel, Switzerland",
+        "country": "Switzerland",
+        "country_flag": "🇨🇭",
+        "apply_url": "https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS\u0026cws=40\u0026rid=1286",
+        "added": "January 9, 2025"
+      },
+      {
+        "company": "Bank for International Settlements – BIS",
+        "job_title": "Head of IT Development",
+        "location": "Basel, Switzerland",
+        "country": "Switzerland",
+        "country_flag": "🇨🇭",
+        "apply_url": "https://lde.tbe.taleo.net/lde01/ats/careers/v2/viewRequisition?org=BIS\u0026cws=40\u0026rid=1287",
+        "added": "January 9, 2025"
+      }
+    ]
+  },
+  {
+    "company": "jndsolutions",
+    "country_flag": "🇺🇸",
+    "country": "United States",
+    "jobs": [
+      {
+        "company": "jndsolutions",
+        "job_title": "Network Tester",
+        "location": "New Jersey, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://jnd-inc.breezy.hr/p/14c3b744e638-network-tester-5-13958-5",
+        "added": "January 9, 2025"
+      }
+    ]
+  },
+  {
+    "company": "Coolblue",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Coolblue",
+        "job_title": "Team Lead Front-End React",
+        "location": "Rotterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://www.careersatcoolblue.com/vacancies/team-lead-front-end-react/",
+        "added": "January 4, 2025"
+      },
+      {
+        "company": "Coolblue",
+        "job_title": "Web Backend Developer",
+        "location": "Utrecht, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://www.careersatcoolblue.com/vacancies/back-end-web-developer/",
+        "added": "August 17, 2024"
+      }
+    ]
+  },
+  {
+    "company": "SELIUK LTD",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "SELIUK LTD",
+        "job_title": "Senior Software Engineer (C++, C, Python)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://apply.workable.com/seliuk-ltd/j/CB14238331/",
+        "added": "December 31, 2024"
+      }
+    ]
+  },
+  {
+    "company": "QuantCo",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "QuantCo",
+        "job_title": "Software Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jobs.lever.co/quantco-/16bbc741-38b5-498f-a871-c5ccca08e092",
+        "added": "December 31, 2024"
+      },
+      {
+        "company": "QuantCo",
+        "job_title": "Software Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jobs.lever.co/quantco-/16bbc741-38b5-498f-a871-c5ccca08e092",
+        "added": "December 31, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Ryanair",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Ryanair",
+        "job_title": "B2 Licensed Engineer - UK Visa Sponsorship Available",
+        "location": "Manchester, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/ryanair/j/5B0B72A042/",
+        "added": "December 26, 2024"
+      }
+    ]
+  },
+  {
+    "company": "justDice",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "justDice",
+        "job_title": "UI/UX Designer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://justdice.io/jobs/?j_id=61a988f6-6a3f-4783-afc4-f2b3bbee384c",
+        "added": "December 26, 2024"
+      },
+      {
+        "company": "justDice",
+        "job_title": "Tech Lead – Backend Services (Go) (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://justdice.io/jobs/?j_id=341d7353-3e3a-4e85-8911-43bcbfa6ac42",
+        "added": "December 26, 2024"
+      },
+      {
+        "company": "justDice",
+        "job_title": "Senior BI Analyst (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://justdice.io/jobs/?j_id=05ceb489-50c0-4b0b-b700-3d4394303321",
+        "added": "August 16, 2024"
+      },
+      {
+        "company": "justDice",
+        "job_title": "Tech Lead – Devops and Backend Services (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://justdice.io/jobs/?j_id=341d7353-3e3a-4e85-8911-43bcbfa6ac42",
+        "added": "August 16, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Freeletics",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Freeletics",
+        "job_title": "DevOps Engineer",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.freeletics.com/en/corporate/jobs/7712b949-b03b-456f-b025-f7c262608082/",
+        "added": "December 26, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Applike Group GmbH",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Applike Group GmbH",
+        "job_title": "Senior Agile Coach (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://join.com/companies/applike-group/13189902-senior-agile-coach-f-m-d",
+        "added": "December 26, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Health Match BC",
+    "country_flag": "🇨🇦",
+    "country": "Canada",
+    "jobs": [
+      {
+        "company": "Health Match BC",
+        "job_title": "Family Practitioner/General Practitioner",
+        "location": "British Columbia, Canada",
+        "country": "Canada",
+        "country_flag": "🇨🇦",
+        "apply_url": "https://applicants.healthmatchbc.org/JobsBoard/HMBC/HMBCVacancies.aspx?VacancyId=53919",
+        "added": "December 15, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Bank of Canada",
+    "country_flag": "🇨🇦",
+    "country": "Canada",
+    "jobs": [
+      {
+        "company": "Bank of Canada",
+        "job_title": "Senior Cyber Security Specialist",
+        "location": "Ottawa, Canada",
+        "country": "Canada",
+        "country_flag": "🇨🇦",
+        "apply_url": "https://careers.bankofcanada.ca/job/Ottawa-%28Downtown%29-Senior-Cyber-Security-Specialist-ON/587635117/",
+        "added": "December 15, 2024"
+      }
+    ]
+  },
+  {
+    "company": "TELUS Digital",
+    "country_flag": "🇮🇪",
+    "country": "Ireland",
+    "jobs": [
+      {
+        "company": "TELUS Digital",
+        "job_title": "Wellness Coach",
+        "location": "Dublin, Ireland",
+        "country": "Ireland",
+        "country_flag": "🇮🇪",
+        "apply_url": "https://www.linkedin.com/jobs/view/4101310324",
+        "added": "December 15, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Multiverse Computing",
+    "country_flag": "🇪🇸",
+    "country": "Spain",
+    "jobs": [
+      {
+        "company": "Multiverse Computing",
+        "job_title": "Business Development Manager",
+        "location": "SAN SEBASTIAN, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://multiversecomputing.teamtailor.com/jobs/5067680-business-development-manager",
+        "added": "December 15, 2024"
+      },
+      {
+        "company": "Multiverse Computing",
+        "job_title": "Data Scientist",
+        "location": "SAN SEBASTIAN, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://multiversecomputing.teamtailor.com/jobs/4499908-data-scientist?utm_campaign=jobs-widget\u0026utm_source=multiversecomputing.teamtailor.com\u0026utm_content=jobs\u0026utm_medium=web",
+        "added": "June 2, 2024"
+      },
+      {
+        "company": "Multiverse Computing",
+        "job_title": "Machine Learning Engineer",
+        "location": "SAN SEBASTIAN, Spain",
+        "country": "Spain",
+        "country_flag": "🇪🇸",
+        "apply_url": "https://multiversecomputing.teamtailor.com/jobs/4469972-machine-learning-engineer?utm_campaign=jobs-widget\u0026utm_source=multiversecomputing.teamtailor.com\u0026utm_content=jobs\u0026utm_medium=web",
+        "added": "June 2, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Universal Quantum",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Universal Quantum",
+        "job_title": "Software Engineer/Architect",
+        "location": "Haywards Heath, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://www.linkedin.com/jobs/view/4097081108",
+        "added": "December 12, 2024"
+      }
+    ]
+  },
+  {
+    "company": "dashlane",
+    "country_flag": "🇫🇷",
+    "country": "France",
+    "jobs": [
+      {
+        "company": "dashlane",
+        "job_title": "Senior Product Manager - Integrations",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://job-boards.greenhouse.io/dashlane/jobs/6306706",
+        "added": "December 9, 2024"
+      },
+      {
+        "company": "dashlane",
+        "job_title": "Senior Software Engineer - Backend",
+        "location": "Porto, Portugal",
+        "country": "Portugal",
+        "country_flag": "🇵🇹",
+        "apply_url": "https://job-boards.greenhouse.io/dashlane/jobs/6128496",
+        "added": "December 9, 2024"
+      },
+      {
+        "company": "dashlane",
+        "job_title": "Senior Software Engineer - Web",
+        "location": "Porto, Portugal",
+        "country": "Portugal",
+        "country_flag": "🇵🇹",
+        "apply_url": "https://job-boards.greenhouse.io/dashlane/jobs/6238136",
+        "added": "December 9, 2024"
+      },
+      {
+        "company": "dashlane",
+        "job_title": "Engineering Manager",
+        "location": "Porto, Portugal",
+        "country": "Portugal",
+        "country_flag": "🇵🇹",
+        "apply_url": "https://job-boards.greenhouse.io/dashlane/jobs/6277385",
+        "added": "December 9, 2024"
+      },
+      {
+        "company": "dashlane",
+        "job_title": "Senior People Partner",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://job-boards.greenhouse.io/dashlane/jobs/6132482",
+        "added": "December 9, 2024"
+      },
+      {
+        "company": "dashlane",
+        "job_title": "Senior Software Engineer - Web",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://job-boards.greenhouse.io/dashlane/jobs/6300104",
+        "added": "December 9, 2024"
+      },
+      {
+        "company": "dashlane",
+        "job_title": "Senior Software Engineer - Backend",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://job-boards.greenhouse.io/dashlane/jobs/6440080",
+        "added": "December 9, 2024"
+      },
+      {
+        "company": "dashlane",
+        "job_title": "Engineering Manager - Core Features",
+        "location": "Paris, France",
+        "country": "France",
+        "country_flag": "🇫🇷",
+        "apply_url": "https://job-boards.greenhouse.io/dashlane/jobs/6097098",
+        "added": "December 9, 2024"
+      }
+    ]
+  },
+  {
+    "company": "HealthcareLink",
+    "country_flag": "🇦🇺",
+    "country": "Australia",
+    "jobs": [
+      {
+        "company": "HealthcareLink",
+        "job_title": "Community-Based Occupational Therapist",
+        "location": "Adelaide, Australia",
+        "country": "Australia",
+        "country_flag": "🇦🇺",
+        "apply_url": "https://www.workforceaustralia.gov.au/individuals/jobs/details/2335992859",
+        "added": "December 8, 2024"
+      }
+    ]
+  },
+  {
+    "company": "adjoe",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "adjoe",
+        "job_title": "iOS Developer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=8a9c2e39-a9e3-4fe9-9e66-a602967251ec",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "DevOps Engineer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=a29fdac9-036f-4f2a-ba79-155d8f32733c",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior BI Analyst (Anti-Fraud) (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=38f67985-bc22-456e-9774-5fc95db90a41",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior BI Analyst (Anti-Fraud) (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=38f67985-bc22-456e-9774-5fc95db90a41",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Machine Learning Engineer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=feee3bff-a9c2-4d4e-86e4-12c376d44567",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Frontend Developer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=6647084f-2c9d-405b-a30b-dec97a6669cb",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Go Developer (Advertising Dashboard Team) (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=a52d2c9e-63c8-4554-a4d7-28982c1952b0",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior QA Engineer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=b068a184-15c9-438a-86fa-f291432146f8",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Product Manager (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=1a08e16e-44b4-4701-99cb-b00f08aa0e59",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Mobile Developer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=9d5179c1-d0b3-4792-b16a-23ada715ad1b",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior DevOps Engineer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=c5545e7e-2387-4aff-a4cf-a071f94fca70",
+        "added": "December 8, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "QA Engineer (Anti-Fraud Team) f/m/d",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=955cab4d-0422-4762-9073-0cf888c9210d",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Business Intelligence Analyst (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=44642da4-2428-4f5d-9fe7-462f5bd572ba",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Backend Development Tech Lead (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=a594c0d0-e2b8-47ce-b883-38ec42ea63fb",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Go Backend Developer (Demand Solutions) (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=a52d2c9e-63c8-4554-a4d7-28982c1952b0",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Frontend Developer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=be4b2a59-cc6a-4bac-8182-1b8728dda53a",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Technical Product Lead (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=b4cc39b9-3bc9-4d0c-add3-a4705e723725",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "IT System Analyst (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=3fcea246-064b-4465-8d58-c06561bae16b",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Product Lead – Playtime Supply (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=d1768d7d-3cab-4e39-adc8-e64f24839d0a",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Data Engineer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=c52bb5b5-60d9-4f0f-8a1a-e8654f9e9be2",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior QA Engineer (Manual Testing) (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=20614756-f7db-479f-9b2b-d689b8ab1cc3",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior DevOps Engineer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=b4ec2e96-c3ef-47c7-b53c-79e20321dc4e",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Data Scientist (Recommendation Systems Expert) (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=df13e38d-9c0e-4f24-b005-a175ab347fa8",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Go Backend Developer (Anti-Fraud) (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=f6ad6765-0c06-47d4-8255-6c6c69e61574",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Data Scientist (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=19c85586-f71d-4ede-aff4-bd4097628a00",
+        "added": "May 7, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Business Intelligence Analyst (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=44642da4-2428-4f5d-9fe7-462f5bd572ba",
+        "added": "February 28, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Go Backend Developer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=39dc22c0-b3d3-4095-bd20-e858fce8ec49",
+        "added": "February 28, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Android Mobile Developer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=b54fe079-b5f9-41a7-b01d-5d78d3ee6644",
+        "added": "February 28, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Frontend Developer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=be4b2a59-cc6a-4bac-8182-1b8728dda53a",
+        "added": "February 28, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "Senior Data Scientist (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=19c85586-f71d-4ede-aff4-bd4097628a00",
+        "added": "February 28, 2024"
+      },
+      {
+        "company": "adjoe",
+        "job_title": "QA Engineer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://adjoe.io/company/careers/?j_id=f46b07a1-4a9d-4f09-a076-56c74c3de460",
+        "added": "February 28, 2024"
+      }
+    ]
+  },
+  {
+    "company": "EY",
+    "country_flag": "🇮🇪",
+    "country": "Ireland",
+    "jobs": [
+      {
+        "company": "EY",
+        "job_title": "Data Analytics \u0026 AI - Manager - Data Governance",
+        "location": "Dublin, Ireland",
+        "country": "Ireland",
+        "country_flag": "🇮🇪",
+        "apply_url": "https://careers.ey.com/ey/job/Dublin-2-Data-Analytics-\u0026-AI-Manager-Data-Governance/1145888801/?feedId=338701\u0026utm_source=Indeed\u0026utm_campaign=EY_indeed",
+        "added": "November 30, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Whatu Ora",
+    "country_flag": "🇳🇿",
+    "country": "Unknown",
+    "jobs": [
+      {
+        "company": "Whatu Ora",
+        "job_title": "Clinical Specialist - MRI Medical Radiation Technologist",
+        "location": "Auckland, New Zealnd",
+        "country": "Unknown",
+        "country_flag": "🇳🇿",
+        "apply_url": "https://careers.adhb.govt.nz/health-careers-job-search/details/ADHB21987?src=JB-14180",
+        "added": "November 30, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Birch",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Birch",
+        "job_title": "Senior Data Scientist",
+        "location": "remote, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://apply.workable.com/birch/j/1040EAB8B6/",
+        "added": "November 24, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Anthropic",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Anthropic",
+        "job_title": "Research Engineer, Horizons",
+        "location": "London, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://boards.greenhouse.io/anthropic/jobs/4138859008",
+        "added": "November 17, 2024"
+      },
+      {
+        "company": "Anthropic",
+        "job_title": "Data Science and Analytics, Go to Market",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://boards.greenhouse.io/anthropic/jobs/4136408008",
+        "added": "November 17, 2024"
+      },
+      {
+        "company": "Anthropic",
+        "job_title": "Engineering Manager, API Experience",
+        "location": "San Francisco, USA",
+        "country": "United States",
+        "country_flag": "🇺🇸",
+        "apply_url": "https://boards.greenhouse.io/anthropic/jobs/4107555008",
+        "added": "November 17, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Capua",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Capua",
+        "job_title": "Graduate Program",
+        "location": "London, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://tally.so/r/nrPk5l",
+        "added": "November 17, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Greenlyte Carbon Technologies",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Greenlyte Carbon Technologies",
+        "job_title": "Senior Hardware Engineer (f/m/x)",
+        "location": "Essen, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1434412?language=en\u0026display=en",
+        "added": "October 31, 2024"
+      },
+      {
+        "company": "Greenlyte Carbon Technologies",
+        "job_title": "Junior Hardware Engineer (f/m/x)",
+        "location": "Essen, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1702714?language=en\u0026display=en",
+        "added": "October 31, 2024"
+      },
+      {
+        "company": "Greenlyte Carbon Technologies",
+        "job_title": "Quality Engineer (f/m/x)",
+        "location": "Essen, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://greenlyte-carbon-technologies-gmbh.jobs.personio.de/job/1718957?language=en\u0026display=en",
+        "added": "October 31, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Celus",
+    "country_flag": "🇵🇹",
+    "country": "Portugal",
+    "jobs": [
+      {
+        "company": "Celus",
+        "job_title": "Middle QA Engineer",
+        "location": "Porto, Portugal",
+        "country": "Portugal",
+        "country_flag": "🇵🇹",
+        "apply_url": "https://celus.jobs.personio.de/job/1317413?language=en\u0026display=en",
+        "added": "October 28, 2024"
+      },
+      {
+        "company": "Celus",
+        "job_title": "Python Developer (Authorization)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://celus.jobs.personio.de/job/1747887?language=en\u0026display=en",
+        "added": "October 28, 2024"
+      },
+      {
+        "company": "Celus",
+        "job_title": "Software Engineer - Algorithm Optimization",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://celus.jobs.personio.de/job/1687548?language=en\u0026display=en",
+        "added": "September 1, 2024"
+      },
+      {
+        "company": "Celus",
+        "job_title": "Product Manager (Machine Learning)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://celus.jobs.personio.de/job/1607371?language=en\u0026display=en",
+        "added": "September 1, 2024"
+      },
+      {
+        "company": "Celus",
+        "job_title": "Python API Developer",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://celus.jobs.personio.de/job/1659103?language=en\u0026display=en",
+        "added": "September 1, 2024"
+      },
+      {
+        "company": "Celus",
+        "job_title": "Senior Data Engineer (Analytics)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://celus.jobs.personio.de/job/1598917?language=en\u0026display=en",
+        "added": "September 1, 2024"
+      },
+      {
+        "company": "Celus",
+        "job_title": "Middle QA Engineer",
+        "location": "Lisbon, Portugal",
+        "country": "Portugal",
+        "country_flag": "🇵🇹",
+        "apply_url": "https://celus.jobs.personio.de/job/1317413?language=en\u0026display=en",
+        "added": "September 1, 2024"
+      },
+      {
+        "company": "Celus",
+        "job_title": "Electronics Engineering Team Lead",
+        "location": "Lisbon, Portugal",
+        "country": "Portugal",
+        "country_flag": "🇵🇹",
+        "apply_url": "https://celus.jobs.personio.de/job/1673798?language=en\u0026display=en",
+        "added": "September 1, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Keywords Studios",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Keywords Studios",
+        "job_title": "Lead Environment Artist- UK",
+        "location": "Liverpool, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/keywords-intl1/j/2ABB7D35B3/",
+        "added": "October 19, 2024"
+      }
+    ]
+  },
+  {
+    "company": "noon",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "noon",
+        "job_title": "Senior Software Engineer",
+        "location": "London, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://careers.learnatnoon.com/jobs/3180190-senior-software-engineer",
+        "added": "October 19, 2024"
+      },
+      {
+        "company": "noon",
+        "job_title": "Principal Frontend Engineer (React/React Native)",
+        "location": "London, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://careers.learnatnoon.com/jobs/4569764-principal-frontend-engineer-react-react-native",
+        "added": "October 19, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Lithe Consulting Ltd",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Lithe Consulting Ltd",
+        "job_title": ".NET Developer",
+        "location": "Macclesfield, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://thinklithe.zohorecruit.eu/jobs/Careers/59632000003205045/NET-Developer",
+        "added": "September 28, 2024"
+      },
+      {
+        "company": "Lithe Consulting Ltd",
+        "job_title": "Java Developer",
+        "location": "Macclesfield, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://thinklithe.zohorecruit.eu/jobs/Careers/59632000003205025/Java-Developer",
+        "added": "September 28, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Oxa",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Oxa",
+        "job_title": "Sensor Engineer",
+        "location": "Oxford, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/oxa/j/2A1D910781/",
+        "added": "September 12, 2024"
+      },
+      {
+        "company": "Oxa",
+        "job_title": "Solutions Engineer",
+        "location": "Oxford, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/oxa/j/B37E7E1F39/",
+        "added": "September 12, 2024"
+      },
+      {
+        "company": "Oxa",
+        "job_title": "C++ Software Engineer (Safety Path)",
+        "location": "Oxford, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/oxa/j/D93ADC2D59/",
+        "added": "September 12, 2024"
+      },
+      {
+        "company": "Oxa",
+        "job_title": "Senior Data Engineer (Reasoning ML)",
+        "location": "Oxford, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/oxa/j/6088616347/",
+        "added": "September 12, 2024"
+      },
+      {
+        "company": "Oxa",
+        "job_title": "Senior Engineer (Controls and Vehicle Integration)",
+        "location": "Oxford, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/oxa/j/61E2B1490F/",
+        "added": "September 12, 2024"
+      },
+      {
+        "company": "Oxa",
+        "job_title": "Senior Software Engineer (Trajectory Planning)",
+        "location": "Oxford, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/oxa/j/7246E60252/",
+        "added": "September 12, 2024"
+      },
+      {
+        "company": "Oxa",
+        "job_title": "Senior Software Engineer (Safety Path)",
+        "location": "Oxford, United Kingdom",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://apply.workable.com/oxa/j/F019E4C1E4/",
+        "added": "September 12, 2024"
+      }
+    ]
+  },
+  {
+    "company": "raisin",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "raisin",
+        "job_title": "(Junior) Product Manager (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1646080?language=de\u0026display=en",
+        "added": "September 8, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Backend Software Engineer (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/905677?language=de\u0026display=en",
+        "added": "September 8, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Senior Backend Software Engineer (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1223287?language=de\u0026display=en",
+        "added": "September 8, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Product Manager - Revenue Team (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1468281?language=de\u0026display=en",
+        "added": "September 8, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Product Manager- Accounting \u0026 Payments (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1505796?language=de\u0026display=en",
+        "added": "September 8, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Engineering Lead – Mobile (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1500767?language=de\u0026display=en",
+        "added": "September 8, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "(Senior) Platform Engineer (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1500800?language=de\u0026display=en",
+        "added": "September 8, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "(Senior) Frontend Engineer (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1593785?language=de\u0026display=en",
+        "added": "September 8, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "(Junior) Product Manager (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://join.com/companies/raisin/12071771-junior-product-manager-m-f-d",
+        "added": "August 16, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Data Engineer (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1483265?language=en\u0026display=en",
+        "added": "March 28, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Senior Backend Software Engineer (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1223287?language=en\u0026display=en",
+        "added": "March 28, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "SOC Analyst (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1357512?language=en\u0026display=en",
+        "added": "March 28, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Security Operations Center (SOC) Lead (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1357534?language=en\u0026display=en",
+        "added": "March 28, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "(Senior) Software Engineer (Frontend) (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/740495?language=en\u0026display=en",
+        "added": "March 28, 2024"
+      },
+      {
+        "company": "raisin",
+        "job_title": "Engineering Lead – Growth (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://raisin.jobs.personio.de/job/1429879?language=en\u0026display=en",
+        "added": "March 28, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Profitap",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "Profitap",
+        "job_title": "QA Engineer",
+        "location": "Eindhoven, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://join.com/companies/profitap/12126273-qa-engineer",
+        "added": "August 17, 2024"
+      },
+      {
+        "company": "Profitap",
+        "job_title": "Front-End Software Engineer",
+        "location": "Eindhoven, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://join.com/companies/profitap/12179586-front-end-software-engineer",
+        "added": "August 17, 2024"
+      }
+    ]
+  },
+  {
+    "company": "HousingAnywhere",
+    "country_flag": "🇳🇱",
+    "country": "Netherlands",
+    "jobs": [
+      {
+        "company": "HousingAnywhere",
+        "job_title": "Product Design Lead",
+        "location": "Rotterdam, Netherlands",
+        "country": "Netherlands",
+        "country_flag": "🇳🇱",
+        "apply_url": "https://boards.greenhouse.io/housinganywhere/jobs/6091303003",
+        "added": "August 17, 2024"
+      }
+    ]
+  },
+  {
+    "company": "enmacc",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "enmacc",
+        "job_title": "Senior Cloud Engineer - AWS (m/f/d)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/enmacc/jobs/4146872101",
+        "added": "August 16, 2024"
+      },
+      {
+        "company": "enmacc",
+        "job_title": "Staff Frontend Engineer (m/f/d)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/enmacc/jobs/4236974101",
+        "added": "August 16, 2024"
+      },
+      {
+        "company": "enmacc",
+        "job_title": "Growth Marketing Manager (m/f/d)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/enmacc/jobs/4292977101",
+        "added": "August 16, 2024"
+      },
+      {
+        "company": "enmacc",
+        "job_title": "Content Marketing Manager (m/f/d)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/enmacc/jobs/4363831101",
+        "added": "August 16, 2024"
+      },
+      {
+        "company": "enmacc",
+        "job_title": "Product Marketing Manager (m/f/d)",
+        "location": "Munich, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://job-boards.eu.greenhouse.io/enmacc/jobs/4332828101",
+        "added": "August 16, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Statista",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Statista",
+        "job_title": "Quality Assurance Engineer (m/f/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://statista.jobs.personio.de/job/1668855?language=de\u0026display=en",
+        "added": "August 11, 2024"
+      },
+      {
+        "company": "Statista",
+        "job_title": "Fullstack Software Engineer – OpenSearch (m/f/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://statista.jobs.personio.de/job/1669262?language=de\u0026display=en",
+        "added": "August 11, 2024"
+      },
+      {
+        "company": "Statista",
+        "job_title": "Business Development Manager - Global Hospital Ratings",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://statista.jobs.personio.de/job/1583142?language=de\u0026display=en",
+        "added": "August 11, 2024"
+      },
+      {
+        "company": "Statista",
+        "job_title": "BI-Analyst - Finance (m/w/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://statista.jobs.personio.de/job/1624668?language=de\u0026display=de",
+        "added": "August 11, 2024"
+      },
+      {
+        "company": "Statista",
+        "job_title": "(Senior) UX/UI Designer (m/f/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://statista.jobs.personio.de/job/1624168?language=de\u0026display=en",
+        "added": "August 11, 2024"
+      },
+      {
+        "company": "Statista",
+        "job_title": "(Senior) Frontend Engineer (m/f/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://statista.jobs.personio.de/job/1656741?language=de\u0026display=en",
+        "added": "August 11, 2024"
+      },
+      {
+        "company": "Statista",
+        "job_title": "(Senior) Backend Engineer (m/f/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://statista.jobs.personio.de/job/1663077?language=de\u0026display=en",
+        "added": "August 11, 2024"
+      },
+      {
+        "company": "Statista",
+        "job_title": "(Senior) Backend Engineer (m/f/d) - PHP Symfony specialist",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://statista.jobs.personio.de/job/1663046?language=de\u0026display=en",
+        "added": "August 11, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Project A Ventures",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Project A Ventures",
+        "job_title": "Product Designer (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://join.com/companies/project-a/11985715-product-designer-m-f-d",
+        "added": "August 2, 2024"
+      },
+      {
+        "company": "Project A Ventures",
+        "job_title": "(Senior) Data Analyst - Project A (m/f/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://join.com/companies/project-a/12001696-senior-data-analyst-project-a-m-f-d",
+        "added": "August 2, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Monzo",
+    "country_flag": "🇬🇧",
+    "country": "United Kingdom",
+    "jobs": [
+      {
+        "company": "Monzo",
+        "job_title": "Android Engineer",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/2578107",
+        "added": "July 20, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Backend Engineer",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/5272421",
+        "added": "July 20, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Senior Backend Engineer",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/5304204",
+        "added": "July 20, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Senior Android Engineer",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/3832598",
+        "added": "July 20, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Lead Credit Analyst, Fin Health",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/6053327",
+        "added": "June 21, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Staff Backend Engineer - Business Banking",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/5960279",
+        "added": "June 21, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Senior Decision Scientist",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/6053295",
+        "added": "June 21, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Senior iOS Engineer",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/3838039",
+        "added": "June 21, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Director of Engineering, Security",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/6049538",
+        "added": "June 21, 2024"
+      },
+      {
+        "company": "Monzo",
+        "job_title": "Data Science Manager",
+        "location": "London , UK",
+        "country": "United Kingdom",
+        "country_flag": "🇬🇧",
+        "apply_url": "https://job-boards.greenhouse.io/monzo/jobs/5758065",
+        "added": "March 28, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Kolibri Games",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Kolibri Games",
+        "job_title": "(Senior) Game Designer (f/m/d)",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://www.kolibrigames.com/career/position/8ab35ce3-a5f5-4be5-84ab-7adf89e2dc39/",
+        "added": "July 20, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Factor Eleven",
+    "country_flag": "🇭🇷",
+    "country": "Croatia",
+    "jobs": [
+      {
+        "company": "Factor Eleven",
+        "job_title": "Senior Backend Engineer - Node.JS",
+        "location": "Zagreb, Croatia",
+        "country": "Croatia",
+        "country_flag": "🇭🇷",
+        "apply_url": "https://apply.workable.com/factor-eleven/j/F1D53550F9/",
+        "added": "March 28, 2024"
+      },
+      {
+        "company": "Factor Eleven",
+        "job_title": "Senior Cloud Engineer",
+        "location": "Frankfurt, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://apply.workable.com/factor-eleven/j/13B5290CF0/",
+        "added": "March 28, 2024"
+      },
+      {
+        "company": "Factor Eleven",
+        "job_title": "Senior Cloud Engineer",
+        "location": "Bucharest, Romania",
+        "country": "Romania",
+        "country_flag": "🇷🇴",
+        "apply_url": "https://apply.workable.com/factor-eleven/j/FA160D14E5/",
+        "added": "March 28, 2024"
+      }
+    ]
+  },
+  {
+    "company": "Enzo",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "Enzo",
+        "job_title": "Mobile App Engineer",
+        "location": "Heidelberg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://join.com/companies/heyenzo/10631844-mobile-app-engineer-intern-fte?widgetv2=true\u0026pid=d73d1a20e99ab4ced633",
+        "added": "February 28, 2024"
+      }
+    ]
+  },
+  {
+    "company": "JUCR",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "JUCR",
+        "job_title": "Staff Electrical Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jucr-gmbh.jobs.personio.de/job/882032?language=en\u0026display=en",
+        "added": "February 28, 2024"
+      },
+      {
+        "company": "JUCR",
+        "job_title": "Senior Embedded Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jucr-gmbh.jobs.personio.de/job/1372594?language=en\u0026display=en",
+        "added": "February 28, 2024"
+      },
+      {
+        "company": "JUCR",
+        "job_title": "Senior Front end Engineer",
+        "location": "Berlin, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://jucr-gmbh.jobs.personio.de/job/1365981?language=en\u0026display=en",
+        "added": "February 28, 2024"
+      }
+    ]
+  },
+  {
+    "company": "justtrack",
+    "country_flag": "🇩🇪",
+    "country": "Germany",
+    "jobs": [
+      {
+        "company": "justtrack",
+        "job_title": "QA Engineer (f/m/d)",
+        "location": "Hamburg, Germany",
+        "country": "Germany",
+        "country_flag": "🇩🇪",
+        "apply_url": "https://justtrack.io/career/?j_id=2795eebb-e23f-41a6-a42f-6785cb73871e",
+        "added": "February 4, 2024"
+      }
+    ]
+  }
+]
