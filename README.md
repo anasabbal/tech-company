@@ -8,6 +8,40 @@ Welcome to our repository of daily-updated, visa-sponsored job opportunities! Th
 
 We encourage the community to engage, share, and support each other in the job search process. If you find this resource helpful, please star the repository and spread the word!
 
+## Auto-import new jobs from company sources
+
+`job.json` now supports an optional `career_page_url` and `job_source` block per company. When configured, the backend can poll that source, append newly discovered jobs, and persist them back into `job.json`.
+
+Only engineering-oriented roles are imported during refreshes. Non-engineering jobs from the same source are skipped.
+
+Example:
+
+```json
+{
+  "company": "Trustpilot",
+  "country_flag": "🇩🇰",
+  "country": "Denmark",
+  "career_page_url": "https://business.trustpilot.com/jobs",
+  "job_source": {
+    "type": "greenhouse_board",
+    "url": "https://boards-api.greenhouse.io/v1/boards/trustpilot/jobs",
+    "default_country": "Denmark",
+    "default_country_flag": "🇩🇰"
+  },
+  "jobs": []
+}
+```
+
+Supported source types:
+
+- `greenhouse_board`: fetches jobs from a Greenhouse board API URL.
+- `json`: fetches a generic JSON endpoint using `jobs_path`, `title_field`, `location_field`, `apply_url_field`, and optional country fields.
+
+Refresh options:
+
+- `POST /api/listings/refresh` manually fetches and merges new jobs.
+- `JOB_AUTO_REFRESH_MINUTES=60` enables background polling every 60 minutes.
+
 
 
 | Company | Job Title | Location | Added | Flag | Link |

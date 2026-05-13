@@ -128,10 +128,13 @@ const wireEvents = () => {
   elements.sortFilter.addEventListener("change", renderJobs);
   elements.clearFilters.addEventListener("click", resetFilters);
 };
-
+const apiFetch = async (url) => {
+  const res = await fetch(url);
+  const { d } = await res.json();
+  return JSON.parse(atob(d));
+};
 const init = async () => {
-  const response = await fetch("/api/jobs");
-  const payload = await response.json();
+  const payload = await apiFetch("/api/jobs");
 
   state.jobs = payload.jobs || [];
   state.countries = payload.countries || [];
